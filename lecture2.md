@@ -960,7 +960,7 @@ class: middle
   ]
 
   .kol-1-5[ 
-.center.width-90[![](figures/lec2/Rumelhart.png)]
+.center.width-100[![](figures/lec2/Rumelhart.png)]
 .bold.smaller-x.center[Девід]
 .bold.smaller-x.center[Румельхарт]
 
