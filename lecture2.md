@@ -992,7 +992,7 @@ class: middle
 
 class: middle
 
-# Батко глибокого навчання
+# [Батько глибокого навчання](https://people.idsia.ch/~juergen/deep-learning-conspiracy.html)
 
 .center.circle.width-40[![](figures/lec2/Ivakhnenko.png)]
 
