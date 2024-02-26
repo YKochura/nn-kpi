@@ -124,6 +124,13 @@ strong {
     font-size: 44pt;
 }
 
+.larger-xxx {
+    font-size: 54pt;
+}
+.larger-xxxx {
+    font-size: 94pt;
+}
+
 .katex {
     color: #356aaf;
 }
