@@ -237,6 +237,10 @@ td {
     color: lightgray;
 }
 
+.inactive-b {
+    color: #272426cc;
+}
+
 .exercise {
     background-color: rgba(40,167,69,0.25);
     border: 2px solid rgb(40,167,69);
