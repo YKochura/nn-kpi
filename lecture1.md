@@ -213,6 +213,20 @@ class: middle
 
 ---
 
+class: middle
+
+.center.width-90[![](figures/lec1/ai-data-computing.png)]
+
+.quote[Однією з найважливіших особливостей штучного інтелекту є те, що це багатоцільова технологія. Подібно до електрики, її можна застосовувати у різних сферах та для різних завдань.
+
+*Алгоритми* вказують комп’ютерам, що робити. *Дані* визначають, що комп’ютери мають вчити.
+*Обчислювальна потужність* надає машинам змогу навчатися та ухвалювати рішення.]
+
+
+.footnote[Credits: [Microsoft](https://cdn-dynmedia-1.microsoft.com/is/content/microsoftcorp/microsoft/final/en-us/microsoft-brand/documents/2024-wttc-introduction-to-ai.pdf), 2024.]
+
+---
+
 class: blue-slide, middle, center
 count: false
 
@@ -719,7 +733,17 @@ class: middle
 Хоча те, що знаходиться всерединi глибинної нейронної мережi, може бути складним, за своєю суттю це просто функцiї. Вони беруть певнi вхiднi данi: **INPUT x** i
 генерують деякi вихiднi данi: **OUTPUT f(x)**
 
-.center.width-30[![](figures/lec1/func.png)]
+.center.width-40[![](figures/lec1/func.png)]
+
+---
+
+class: middle, center
+
+# Типи моделей
+
+.bold[*Дискримінативні*]  та .bold[*генеративні*] моделі
+
+.center.width-100[![](figures/lec1/models-type.gif)]
 
 ---
 
@@ -831,7 +855,12 @@ class: middle
 
 .grid[
 .kol-2-3.center.width-100[![](./figures/lec1/alphafold-nature.png)]
-.kol-1-3.center.width-100[![](./figures/lec1/alphafold-prediction.gif)]
+.kol-1-3.center.width-80[![](./figures/lec1/alphafold-prediction.gif)]
+.kol-1-3.circle.center.width-80[![](./figures/lec1/John_Jumper,_2024_Nobel_Prize_Laureate_in_Chemistry.jpg) 
+.smaller-x[[John Jumper](https://en.wikipedia.org/wiki/John_M._Jumper)] <br>
+.smaller-xx[(Нобелівська премія з хімії 2024)]]
+.kol-1-4.circle.center.width-40[![](./figures/lec1/Nobel_Prize.png) ]
+
 ]
 
 ???
@@ -940,6 +969,13 @@ class: middle
 .pull-right[&mdash; Крістофер Бішоп, 2020.] 
 ???
 Крістофер Бішоп є технічним співробітником Microsoft і директором Microsoft Research AI4Science. Він також є почесним професором комп’ютерних наук Единбурзького університету та членом Дарвінівського коледжу в Кембриджі. У 2017 році він був обраний членом Королівського товариства.
+
+---
+
+class: middle
+
+.center.width-100[![](figures/lec1/ai-ml-dl.png)]
+
 
 ---
 
