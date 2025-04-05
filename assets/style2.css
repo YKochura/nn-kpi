@@ -120,6 +120,10 @@ strong {
     font-size: 30pt;
 }
 
+.larger-xs {
+    font-size: 25pt;
+}
+
 .larger-xx {
     font-size: 44pt;
 }
