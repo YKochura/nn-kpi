@@ -17,8 +17,8 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Create output directory
-        run: mkdir -p pdf
+      - name: Fix permissions for PDF output
+        run: chmod -R 777 pdf
 
       - name: Start local HTTP server
         run: |
