@@ -260,13 +260,33 @@ td {
     display: block;
 }
 
-.question, .success {
+/*.question, .success {
     background-color: rgba(40,167,69,0.25);
     border: 2px solid rgb(40,167,69);
     border-radius: 5px;
     width: 95%;
     display: block;
     padding: 1em;
+}*/
+
+.question, .success, .alert {
+    border-radius: 0 5px 5px 0;
+    border: none;
+    border-left: 5px solid;
+    width: 95%;
+    display: block;
+    padding: 1em;
+}
+
+.question, .success {
+    background-color: rgba(40, 167, 69, 0.08);
+    border-left-color: rgb(40, 167, 69);
+}
+
+.alert {
+    color: #721c24;
+    background-color: rgba(220, 53, 69, 0.08);
+    border-left-color: #dc3545;
 }
 
 .quote{
@@ -278,7 +298,7 @@ td {
     padding: 1em;
 }
 
-.alert {
+/*.alert {
     color: #721c24;
     background-color: #f8d7da;
     border: 2px solid #f5c6cb;
@@ -286,7 +306,7 @@ td {
     width: 95%;
     display: block;
     padding: 1em;
-}
+}*/
 
 
 /* Placement ---------------------------------------------------------------- */
